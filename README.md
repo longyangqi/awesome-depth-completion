@@ -1,5 +1,5 @@
 ---
-title: Awesome Depth Compltion
+title: Awesome Depth Completion
 comments: true
 date: 2019-11-11 10:15:16
 categories:
@@ -16,7 +16,7 @@ a curated list of papers for depth completion
 
 <!--more-->
 
-## Papers and Code
+## Papers and Codes
 
 1.  Sparsity Invariant CNNs. (3DV 17) [[paper](<https://arxiv.org/pdf/1708.06500.pdf>)] (Unofficial)[[code](https://github.com/PeterTor/sparse_convolution) [code](https://github.com/chenxiaoyu523/Sparsity-Invariant-CNNs-pytorch)]
 2.  A Normalized Convolutional Neural Network for Guided Sparse Depth Upsampling. (IJCAI 18) [[paper](https://pdfs.semanticscholar.org/fb1d/c10e7920fecdac843d3a3d537774dd6e62c2.pdf)]
@@ -37,4 +37,4 @@ a curated list of papers for depth completion
 17.  Learning Joint 2D-3D Representations for Depth Completion. (ICCV 19) [[paper](http://www.cs.toronto.edu/~byang/papers/fusenet.pdf)] 
 18.  Depth Completion from Sparse LiDAR Data with Depth-Normal Constraints. (ICCV 19) [[paper](https://arxiv.org/pdf/1910.06727.pdf)]
 19.  Learning Guided Convolutional Network for Depth Completion. (ArXiv 19) [[paper](https://arxiv.org/pdf/1908.01238.pdf)] [[code](https://github.com/kakaxi314/GuideNet) (not available now)]
-20.   CSPN++: Learning Context and Resource Aware Convolutional Spatial Propagation Networks for Depth Completion. (AAAI 20) [[paper](https://arxiv.org/pdf/1911.05377.pdf)] [[code](https://github.com/XinJCheng/CSPN)]
+20.   CSPN++: Learning Context and Resource Aware Convolutional Spatial Propagation Networks for Depth Completion. (AAAI 20) [[paper](https://arxiv.org/pdf/1911.05377.pdf)]
